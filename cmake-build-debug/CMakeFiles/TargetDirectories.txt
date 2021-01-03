@@ -1,0 +1,3 @@
+C:/CLionProjects/Als/DrzewoAVL/cmake-build-debug/CMakeFiles/DrzewoAVL.dir
+C:/CLionProjects/Als/DrzewoAVL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/Als/DrzewoAVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

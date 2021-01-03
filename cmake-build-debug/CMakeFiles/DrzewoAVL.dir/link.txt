@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DrzewoAVL.dir/objects.a
+C:\CLion\mingw64\bin\ar.exe cr CMakeFiles\DrzewoAVL.dir/objects.a @CMakeFiles\DrzewoAVL.dir\objects1.rsp
+C:\CLion\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\DrzewoAVL.dir/objects.a -Wl,--no-whole-archive  -o DrzewoAVL.exe -Wl,--out-implib,libDrzewoAVL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DrzewoAVL.dir\linklibs.rsp
